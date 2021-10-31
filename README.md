@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hhbadarin
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently coding in Powershel and Python 
 - 📫 You can reach me on twitter @hhbadarin
 <!---
 hhbadarin/hhbadarin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
