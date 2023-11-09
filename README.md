@@ -9,6 +9,6 @@
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCB7RG_c1VhfUTFq0_Vw1Pjg)](https://Youtube.com/hhbadarin/)
 
 
-Hi, I'm Haitham Badarin! Software engineer from Palestine.<br>
-I love Powershell and Microsoft Graph.<br>
+Hi, I'm Haitham Badarin! Content creator from Palestine.<br>
+I love Powershell and Microsoft Graph, this is why most of the code here is pwoershell.<br>
 You can always reach me at: https://www.badarin.net
