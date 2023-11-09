@@ -10,5 +10,5 @@
 
 
 Hi, I'm Haitham Badarin! Content creator from Palestine.<br>
-I love Powershell and Microsoft Graph, this is why most of the code here is pwoershell.<br>
+I love Powershell and Microsoft Graph, i help IT admins manage their Microsoft 365 Tenants using Powershell.<br>
 You can always reach me at: https://www.badarin.net
